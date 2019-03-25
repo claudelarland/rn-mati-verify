@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">reactnativemativerify</string>
+    <string name="button_title">Vérifier mon identité</string>
+
+</resources>
